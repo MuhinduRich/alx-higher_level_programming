@@ -23,4 +23,3 @@ else:
     sys.exit(1)
 
 print("{} {} {} = {}".format(a, op, b, result))
-
