@@ -1,0 +1,1 @@
+tests for inheritance tasks
